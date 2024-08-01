@@ -7,7 +7,7 @@ using MassTransit;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace AuctionService.Controller;
+namespace AuctionService.Controllers;
 
 [ApiController]
 [Route("api/auctions")]
